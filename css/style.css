@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+/*mobil*/
+@media(max-width:767px){
+    body{
+        background-color: #ebf0e6;
+    }
+}
+
+/*tablet*/
+@media(min-width:767px)and(max-width:1023px){
+    img{width:33,33%;}
+}
+
+/*desktop*/
+@media(min-width:1024px){
+  
+}
